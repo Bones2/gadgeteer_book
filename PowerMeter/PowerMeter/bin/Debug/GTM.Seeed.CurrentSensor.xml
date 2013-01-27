@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.Seeed.CurrentSensor</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.Seeed.CurrentSensor">
+            <summary>
+            A CurrentSensor module for Microsoft .NET Gadgeteer, based on a SCT-013-030 current sensor
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.Seeed.CurrentSensor.#ctor(System.Int32)">
+            <summary></summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.Seeed.CurrentSensor.GetCurrentReading">
+            <summary>
+            Returns the current reading, in amps.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

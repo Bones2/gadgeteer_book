@@ -1,0 +1,91 @@
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\ResolveAssemblyReference.cache
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\TinyCLR_DebugReferences.cache
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\Spy_Camera_Test.Resources.resources
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\GenerateResource.read.1.tlog
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\GenerateResource.write.1.tlog
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\Spy_Camera_Test.Resources.tinyresources
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\TinyResGen.cache
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\le\Spy Camera Test.exe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\be\Spy Camera Test.exe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\le\Spy Camera Test.pdb
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\be\Spy Camera Test.pdb
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\Spy Camera Test.exe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\Spy Camera Test.pdb
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\le\Spy Camera Test.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\le\Spy Camera Test.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\be\Spy Camera Test.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\be\Spy Camera Test.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\Gadgeteer.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\Gadgeteer.WebClient.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\Gadgeteer.WebServer.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\Gadgeteer.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\Gadgeteer.WebClient.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\Gadgeteer.WebServer.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\Gadgeteer.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\Gadgeteer.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\Gadgeteer.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\Gadgeteer.WebClient.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\Gadgeteer.WebServer.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GTM.GHIElectronics.Camera.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GTM.GHIElectronics.SDCard.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.NETMF.System.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.NETMF.USBHost.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.NETMF.IO.dll
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\Gadgeteer.xml
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GTM.GHIElectronics.Camera.pdb
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GTM.GHIElectronics.Camera.xml
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GTM.GHIElectronics.SDCard.pdb
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GTM.GHIElectronics.SDCard.xml
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.NETMF.System.xml
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\bin\Debug\GHIElectronics.NETMF.IO.xml
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\be\Spy Camera Test.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\be\Spy Camera Test.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\le\Spy Camera Test.pe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\le\Spy Camera Test.pdbx
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\Spy Camera Test.exe
+e:\Gadgeteer\Spy Camera Test\Spy Camera Test\obj\Debug\Spy Camera Test.pdb

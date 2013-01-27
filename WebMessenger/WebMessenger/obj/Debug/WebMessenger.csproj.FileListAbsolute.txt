@@ -1,0 +1,268 @@
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\le\WebMessenger.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\be\WebMessenger.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\le\WebMessenger.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\be\WebMessenger.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\WebMessenger.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\WebMessenger.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\le\WebMessenger.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\le\WebMessenger.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\be\WebMessenger.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\be\WebMessenger.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\Gadgeteer.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\Gadgeteer.WebClient.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\Gadgeteer.WebServer.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\Gadgeteer.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\Gadgeteer.WebClient.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\Gadgeteer.WebServer.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\Gadgeteer.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\Gadgeteer.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\Gadgeteer.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\Gadgeteer.WebClient.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\Gadgeteer.WebServer.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.Camera.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.MulticolorLed.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.NETMF.USBHost.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.NETMF.Net.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\Gadgeteer.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.Button.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.Camera.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.Camera.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.MulticolorLed.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GTM.GHIElectronics.MulticolorLed.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\bin\Debug\GHIElectronics.NETMF.Net.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\WebMessenger.Resources.resources
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\WebMessenger.Resources.tinyresources
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\TinyResGen.cache
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\be\WebMessenger.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\be\WebMessenger.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\le\WebMessenger.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\le\WebMessenger.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\WebMessenger.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\WebMessenger\obj\Debug\WebMessenger.pdb
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\le\WebMessenger.exe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\be\WebMessenger.exe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\le\WebMessenger.pdb
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\be\WebMessenger.pdb
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\WebMessenger.exe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\WebMessenger.pdb
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\le\WebMessenger.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\le\WebMessenger.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\be\WebMessenger.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\be\WebMessenger.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.WebClient.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.WebServer.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.WebClient.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.WebServer.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\Gadgeteer.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\Gadgeteer.WebClient.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\Gadgeteer.WebServer.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.System.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\Gadgeteer.xml
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.System.xml
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\ResolveAssemblyReference.cache
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\TinyCLR_DebugReferences.cache
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\WebMessenger.Resources.resources
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\GenerateResource.read.1.tlog
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\GenerateResource.write.1.tlog
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\WebMessenger.Resources.tinyresources
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\TinyResGen.cache
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\be\WebMessenger.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\be\WebMessenger.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\le\WebMessenger.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\le\WebMessenger.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\WebMessenger.exe
+e:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\WebMessenger.pdb
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.Net.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.pdb
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.xml
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.Net.xml
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pe
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pdbx
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.MulticolorLed.dll
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.MulticolorLed.pdb
+e:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.MulticolorLed.xml
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\le\WebMessenger.exe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\be\WebMessenger.exe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\le\WebMessenger.pdb
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\be\WebMessenger.pdb
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\WebMessenger.exe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\WebMessenger.pdb
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\le\WebMessenger.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\le\WebMessenger.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\be\WebMessenger.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\be\WebMessenger.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.WebClient.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.WebServer.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.WebClient.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.WebServer.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GTM.GHIElectronics.MulticolorLed.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GTM.GHIElectronics.MulticolorLed.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\Gadgeteer.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\Gadgeteer.WebClient.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\Gadgeteer.WebServer.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.System.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.MulticolorLed.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.Net.dll
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\Gadgeteer.xml
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.System.xml
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.pdb
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.xml
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.MulticolorLed.pdb
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GTM.GHIElectronics.MulticolorLed.xml
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+G:\Gadgeteer\WebMessenger\WebMessenger\bin\Debug\GHIElectronics.NETMF.Net.xml
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\ResolveAssemblyReference.cache
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\TinyCLR_DebugReferences.cache
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\WebMessenger.Resources.resources
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\GenerateResource.read.1.tlog
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\GenerateResource.write.1.tlog
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\WebMessenger.Resources.tinyresources
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\TinyResGen.cache
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\be\WebMessenger.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\be\WebMessenger.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\le\WebMessenger.pe
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\le\WebMessenger.pdbx
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\WebMessenger.exe
+G:\Gadgeteer\WebMessenger\WebMessenger\obj\Debug\WebMessenger.pdb

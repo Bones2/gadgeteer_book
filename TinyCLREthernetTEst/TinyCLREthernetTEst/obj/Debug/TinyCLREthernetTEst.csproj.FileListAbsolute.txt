@@ -1,0 +1,168 @@
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\le\TinyCLREthernetTEst.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\be\TinyCLREthernetTEst.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\le\TinyCLREthernetTEst.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\be\TinyCLREthernetTEst.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\TinyCLREthernetTEst.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\TinyCLREthernetTEst.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\le\TinyCLREthernetTEst.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\le\TinyCLREthernetTEst.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\be\TinyCLREthernetTEst.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\be\TinyCLREthernetTEst.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.WebClient.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.WebServer.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.WebClient.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.WebServer.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\Gadgeteer.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\Gadgeteer.WebClient.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\Gadgeteer.WebServer.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Camera.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.USBHost.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.Net.dll
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\Gadgeteer.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Camera.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Camera.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.pdb
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.Net.xml
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\TinyCLREthernetTEst.Resources.resources
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\TinyCLREthernetTEst.Resources.tinyresources
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\TinyResGen.cache
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\be\TinyCLREthernetTEst.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\be\TinyCLREthernetTEst.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\le\TinyCLREthernetTEst.pe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\le\TinyCLREthernetTEst.pdbx
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\TinyCLREthernetTEst.exe
+C:\Documents and Settings\Simon\Local Settings\Application Data\Temporary Projects\TinyCLREthernetTEst\obj\Debug\TinyCLREthernetTEst.pdb
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\le\TinyCLREthernetTEst.exe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\be\TinyCLREthernetTEst.exe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\le\TinyCLREthernetTEst.pdb
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\be\TinyCLREthernetTEst.pdb
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\TinyCLREthernetTEst.exe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\TinyCLREthernetTEst.pdb
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\le\TinyCLREthernetTEst.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\le\TinyCLREthernetTEst.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\be\TinyCLREthernetTEst.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\be\TinyCLREthernetTEst.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.WebClient.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.WebServer.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.Net.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.WebClient.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.WebServer.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.Net.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\LE\GHIElectronics.NETMF.Net.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GTM.GHIElectronics.Ethernet_J11D.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\BE\GHIElectronics.NETMF.Net.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\Gadgeteer.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\Gadgeteer.WebClient.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\Gadgeteer.WebServer.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Camera.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.System.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.USBHost.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.Net.dll
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\Gadgeteer.xml
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Camera.pdb
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Camera.xml
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.pdb
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GTM.GHIElectronics.Ethernet_J11D.xml
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.System.xml
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\bin\Debug\GHIElectronics.NETMF.Net.xml
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\ResolveAssemblyReference.cache
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\TinyCLR_DebugReferences.cache
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\TinyCLREthernetTEst.Resources.resources
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\GenerateResource.read.1.tlog
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\GenerateResource.write.1.tlog
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\TinyCLREthernetTEst.Resources.tinyresources
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\TinyResGen.cache
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\be\TinyCLREthernetTEst.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\be\TinyCLREthernetTEst.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\le\TinyCLREthernetTEst.pe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\le\TinyCLREthernetTEst.pdbx
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\TinyCLREthernetTEst.exe
+e:\Gadgeteer\TinyCLREthernetTEst\TinyCLREthernetTEst\obj\Debug\TinyCLREthernetTEst.pdb
